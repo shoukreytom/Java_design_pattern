@@ -1,4 +1,4 @@
-package creational.builder.test;
+package creational.builder;
 
 public class Computer {
 
